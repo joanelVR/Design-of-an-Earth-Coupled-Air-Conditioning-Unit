@@ -7,9 +7,7 @@
   * Incompressible fluids
   * Ideal Vapor-Compression Refrigeration cycle
 
-<a href="http://imgbox.com/KjflNcqp" target="_blank"><img src="https://thumbs.imgbox.com/9f/43/KjflNcqp_t.png" alt="image host"/></a> 
-
-<a href="http://imgbox.com/F1udIcsH" target="_blank"><img src="https://thumbs.imgbox.com/73/6a/F1udIcsH_t.png" alt="image host"/></a>
+<a href="http://imgbox.com/KjflNcqp" target="_blank"><img src="https://thumbs.imgbox.com/9f/43/KjflNcqp_t.png" alt="image host"/></a> <a href="http://imgbox.com/F1udIcsH" target="_blank"><img src="https://thumbs.imgbox.com/73/6a/F1udIcsH_t.png" alt="image host"/></a>
 # __Getting Started__
 ##### For the other files of this program, please email me at joanel.vasquez1520@gmail.com explaning why you need the program. Put the name of the program in the subject and GITHUB. 
 # __Prerequesites__
